@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Attila Antal",
+    "longName": "SeklerHungarianScript",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/rovas.ttf",
+                "name": "ROVAS_45",
+                "type": "font"
+            },
+            {
+                "file": "fonts/rovas.ttf",
+                "name": "ROVAS_42",
+                "type": "font"
+            },
+            {
+                "file": "fonts/rovas.ttf",
+                "name": "ROVAS_46",
+                "type": "font"
+            },
+            {
+                "file": "fonts/rovas.ttf",
+                "name": "ROVAS_44",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "SeklerHungarianScript",
+    "uuid": "44478fc1-ca6d-43de-99ad-3a280dd3ff61",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
